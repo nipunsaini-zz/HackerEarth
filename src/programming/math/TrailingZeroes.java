@@ -1,3 +1,25 @@
+/*
+Problem Statement:
+
+Given a number find the number of trailing zeroes in its factorial.
+
+Input Format:
+A single integer - N
+
+Output Format:
+Print a single integer which is the number of trailing zeroes.
+
+Input Constraints:
+1 <= N <= 1000
+
+Sample Input:
+10
+
+Sample Output:
+2
+
+*/
+
 package programming.math;
 
 import java.io.BufferedReader;
