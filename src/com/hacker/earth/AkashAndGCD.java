@@ -35,7 +35,7 @@ public class AkashAndGCD {
 
 	}
 	
-	public static final int mod = (int)(Math.pow(10, 9) + 7);
+	public static final int mod = 1000000007;
 	
 	public static long F(int n){
 		long gcdSum = 0;
